@@ -11,8 +11,9 @@
     the GNU General Public License for more details.
 */
 
-#include "alt_key.hpp"
-#include "aqp.hpp"
+//#include "alt_key.hpp"
+#include "aqp/alt_key.hpp"
+#include "aqp/aqp.hpp"
 #include "boxitem.hpp"
 #include "brushwidget.hpp"
 #include "graphicsview.hpp"
